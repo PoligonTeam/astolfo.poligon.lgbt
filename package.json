@@ -1,0 +1,21 @@
+{
+  "name": "astolfoapi",
+  "version": "1.0.0",
+  "description": "astolfo.poligon.lgbt - sfw/nsfw random astofo picture api",
+  "main": "index.ts",
+  "module": "index.ts",
+  "type": "module",
+  "author": "Smugaski at PoligonTeam <geje@poligon.lgbt> (https://github.com/PoligonTeam)",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PoligonTeam/astolfo.poligon.lgbt.git"
+  },
+  "homepage": "https://poligon.lgbt/",
+  "devDependencies": {
+    "bun-types": "^0.1.0"
+  },
+  "dependencies": {
+    "hono": "^2.2.3"
+  }
+}
